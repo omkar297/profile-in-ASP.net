@@ -412,33 +412,6 @@
                                 <p>sudhakar nagar road,<br>satara parishar, Aurangabad,<br>431001</p>
                             </div>
                         </div>
-                        <div class="box">
-                            <div class="icon">
-                                <i class="fa fa-phone"></i>
-                            </div>
-                            <div class="text">
-                                <h3>Call me</h3>
-                                <p>+91 8329364174</p>
-                            </div>
-                        </div>
-                        <div class="box">
-                            <div class="icon">
-                                <i class="fa fa-envelope-o"></i>
-                            </div>
-                            <div class="text">
-                                <h3>Email</h3>
-                                <p>omkar@omkarrathod.com</p>
-                            </div>
-                        </div>
-                        <div class="box">
-                            <div class="icon">
-                                <i class="fa fa-linkedin"></i>
-                            </div>
-                            <div class="text">
-                                <h3>Connet on</h3>
-                                <p><a href="https://www.linkedin.com/in/omkar-rathod-41a3591b8/" target="_blank">Omkar Rathod</a></p>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="formBx">
@@ -452,7 +425,7 @@
         </section>
         <!-- Copyright -->
         <div class="copyright">
-            <p>Copyright @ 2020 OMKAR RATHOD. all Right Reserved.</p>
+            <p>Copyright <Add your copyright>. all Right Reserved.</p>
         </div>
         <!-- JavaScript -->
         <script type="text/javascript">
